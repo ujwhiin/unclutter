@@ -1,9 +1,10 @@
-<img width="2310" height="1734" alt="image" src="https://github.com/user-attachments/assets/4a9a2c1d-ccc1-4d3d-a625-deb24d68b12d" /># Unclutter：Mac 上藏在屏幕顶部的"百宝袋"，文件暂存、剪贴板、笔记三合一搞定
+# Unclutter：Mac 上藏在屏幕顶部的"百宝袋"，文件暂存、剪贴板、笔记三合一搞定
 
 你有没有这种经历——同时开着七八个窗口，文件散落一地，复制的内容一不小心就被覆盖，脑子里有个灵感想记下来，却要先找出记事本应用……整个工作流就这样断断续续，效率低得让人崩溃。
 
 其实不需要开三个 App 来解决这些问题。Unclutter 一个就够了。
 
+<img width="2310" height="1734" alt="image" src="https://github.com/user-attachments/assets/4a9a2c1d-ccc1-4d3d-a625-deb24d68b12d" />
 
 ---
 
